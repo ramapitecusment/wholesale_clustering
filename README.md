@@ -2,8 +2,8 @@
 
 Before we start making Dendogram, let’s check how your variables look on the plot. We can definitely divide our data into 3 clusters.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot01.png)
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot02.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/wholesale_clustering/master/images/Rplot01.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/wholesale_clustering/master/images/Rplot02.png)
 
 ### Correlation between data:
 
@@ -14,11 +14,11 @@ Before we start making Dendogram, let’s check how your variables look on the p
 
 Other variables are not highly correlated
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot03.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/wholesale_clustering/master/images/Rplot03.png)
 
 The dendogram illustrates us that the data should be categorized into 3 clusters.
 
-![alt text](https://raw.githubusercontent.com/ramapitecusment/student_academic_performance/master/images/Rplot04.png)
+![alt text](https://raw.githubusercontent.com/ramapitecusment/wholesale_clustering/master/images/Rplot04.png)
 
 ### Conclusion
 
